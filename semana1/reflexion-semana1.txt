@@ -1,0 +1,20 @@
+REFLEXIÓN — SEMANA 1
+====================
+¿Qué relación encuentras entre el uso responsable de la información en internet,
+la participación ciudadana y la organización del trabajo técnico con herramientas
+como Git?
+
+El uso responsable de la información en internet es la base de una buena
+ciudadanía digital. Cuando una persona verifica lo que comparte, contribuye
+a construir un entorno más confiable y respetuoso para toda la comunidad.
+Esta misma actitud de cuidado y responsabilidad es la que se necesita en el
+trabajo técnico: así como no se debe publicar información sin verificar, en
+programación tampoco se deben subir cambios sin revisarlos y documentarlos.
+
+Herramientas como Git permiten llevar un registro ordenado de todo lo que se
+hace en un proyecto, lo que facilita el trabajo en equipo y la transparencia.
+De la misma manera que un ciudadano responsable deja trazabilidad de sus
+acciones, un programador que usa Git deja un historial claro de sus decisiones
+y cambios. En ambos casos, la organización y la ética son fundamentales para
+construir algo que beneficie a los demás y que pueda ser revisado y mejorado
+con el tiempo.
