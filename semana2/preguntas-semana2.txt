@@ -1,0 +1,15 @@
+Pregunta 1:
+Respuesta: B
+Ejecutar comandos para interactuar con el sistema.
+
+Pregunta 2:
+Respuesta: B
+Muestra la ubicación actual dentro del sistema de carpetas.
+
+Pregunta 3:
+Respuesta: C
+El comando ls permite ver los archivos y carpetas dentro del directorio actual.
+
+Pregunta 4:
+Respuesta: B
+El comando mkdir permite crear una carpeta nueva desde la terminal.

@@ -1,0 +1,16 @@
+COMANDOS USADOS EN LA ACTIVIDAD — SEMANA 2
+==========================================
+
+pwd
+ls
+cd Desktop
+cd mi-repositorio
+mkdir semana2
+cd semana2
+echo. > preguntas-semana2.txt
+echo. > comandos-terminal.txt
+echo. > reflexion-semana2.txt
+cd ..
+git add .
+git commit -m "Actividad semana 2"
+git push
