@@ -1,0 +1,28 @@
+Comandos ejecutados en la terminal Linux
+=========================================
+
+Comando: uname -a
+------------------
+Muestra información completa del sistema operativo: el nombre del kernel (Linux),
+el nombre del equipo (hostname), la versión del kernel, la fecha de compilación
+y la arquitectura del procesador (por ejemplo, x86_64).
+
+Ejemplo de salida:
+Linux codespaces-abc123 5.15.0-1034-azure #41-Ubuntu SMP x86_64 GNU/Linux
+
+Comando: whoami
+----------------
+Muestra el nombre del usuario que está actualmente conectado y ejecutando
+comandos en la terminal.
+
+Ejemplo de salida:
+david
+
+¿Por qué es útil conocer esta información al administrar un servidor?
+----------------------------------------------------------------------
+Conocer el sistema operativo y su versión permite saber si el servidor tiene
+actualizaciones de seguridad pendientes que deben aplicarse. Saber qué usuario
+está activo ayuda a verificar que se tienen los permisos correctos para realizar
+tareas administrativas y evita ejecutar comandos con privilegios equivocados.
+Esta información también es útil al buscar soluciones a problemas, porque muchas
+soluciones dependen de la versión exacta del sistema operativo instalado.

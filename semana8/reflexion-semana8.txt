@@ -1,0 +1,19 @@
+Reflexión - Semana 8
+====================
+
+La seguridad digital es fundamental para proteger plataformas tecnológicas que usan
+comunidades o procesos participativos, porque estas plataformas manejan información
+sensible de personas reales: sus nombres, reportes, opiniones y datos de contacto.
+Si esa información cae en manos equivocadas, puede poner en riesgo la privacidad
+y la seguridad de los ciudadanos que confían en el sistema.
+
+Además, una plataforma comunitaria que no es segura puede ser manipulada por actores
+externos que quieran alterar la información registrada, lo que afectaría la integridad
+de los procesos participativos. Por ejemplo, si alguien modifica los reportes de
+incidencias, las autoridades no tendrían datos confiables para tomar decisiones.
+
+Desde el punto de vista técnico, prácticas como usar HTTPS, proteger contraseñas,
+registrar accesos y limitar permisos son medidas básicas pero muy efectivas para
+reducir riesgos. Estas no son solo responsabilidades técnicas, sino también éticas,
+porque quienes desarrollan estas plataformas tienen el deber de cuidar la información
+de las personas que depositan su confianza en ellas.
