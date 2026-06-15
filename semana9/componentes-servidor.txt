@@ -1,0 +1,32 @@
+Componentes de un entorno servidor
+====================================
+
+1. Sistema operativo
+---------------------
+Es el software base que administra el hardware del servidor y permite que los demás
+programas funcionen. En servidores web se usa comúnmente Linux porque es estable,
+seguro y de código abierto.
+
+2. Node.js
+-----------
+Es el entorno de ejecución que permite correr código JavaScript fuera del navegador,
+directamente en el servidor. Node.js se encarga de ejecutar el archivo server.js y
+de manejar las solicitudes que llegan al servidor de forma eficiente.
+
+3. Aplicación server.js
+------------------------
+Es el archivo principal de la aplicación donde se definen las rutas, la lógica del
+servidor y la configuración de Express. Es el código que el programador escribe para
+controlar qué responde el servidor ante cada tipo de solicitud.
+
+4. Puerto
+----------
+Es el canal de comunicación a través del cual el servidor recibe y envía información.
+En esta práctica se usa el puerto 3000. Cada servicio en un servidor escucha en un
+puerto diferente para no generar conflictos entre aplicaciones.
+
+5. Logs
+--------
+Son registros que guardan información sobre la actividad del servidor: qué solicitudes
+llegaron, qué errores ocurrieron y cuándo. Los logs son esenciales para detectar
+problemas, monitorear el rendimiento y garantizar la seguridad del sistema.
