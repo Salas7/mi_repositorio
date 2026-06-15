@@ -1,0 +1,20 @@
+Reflexión - Semana 6
+====================
+
+Es muy importante que las plataformas tecnológicas puedan recibir reportes e información
+enviada por los ciudadanos de forma estructurada porque esto permite organizar los datos
+de manera clara y eficiente. Cuando la información llega en un formato definido como JSON,
+el sistema puede procesarla automáticamente sin errores ni confusiones.
+
+Además, recibir datos estructurados facilita que las autoridades o instituciones
+respondan más rápido a los problemas reportados por la comunidad, como daños en vías,
+fallas en el alumbrado público o problemas de seguridad. Sin una estructura clara,
+sería muy difícil manejar grandes volúmenes de reportes al mismo tiempo.
+
+La programación con Express y req.body muestra cómo una aplicación puede servir como
+puente entre los ciudadanos y quienes deben atender sus necesidades. Esto contribuye
+a construir comunidades más conectadas y gobiernos más transparentes, donde cada reporte
+queda registrado y puede ser consultado o atendido oportunamente.
+
+En definitiva, estructurar la información no es solo una práctica técnica, sino una forma
+de garantizar que la voz de cada ciudadano sea escuchada y atendida correctamente.
