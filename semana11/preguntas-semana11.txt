@@ -1,0 +1,4 @@
+1. Una base de datos es un sistema que permite almacenar y consultar información estructurada.
+2. CRUD significa crear, leer, actualizar y eliminar datos.
+3. La autenticación permite identificar usuarios y controlar quién puede acceder a ciertas funciones.
+4. Es importante proteger datos sensibles para evitar riesgos de privacidad o uso indebido de la información.
