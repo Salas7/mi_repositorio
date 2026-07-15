@@ -1,0 +1,11 @@
+Las metodologías ágiles permiten organizar el trabajo comunitario en pasos pequeños 
+y manejables, en lugar de intentar resolver todo de una sola vez. Usar un backlog 
+ayuda a priorizar qué necesidades atender primero, algo esencial cuando los recursos 
+de una comunidad son limitados. La automatización con herramientas como n8n permite 
+que los procesos de seguimiento no dependan de que una persona esté revisando 
+manualmente todo el tiempo, ahorrando esfuerzo y reduciendo errores humanos. 
+Canales como Telegram facilitan la comunicación rápida y directa con la comunidad, 
+manteniendo informados a los coordinadores sin exponer datos sensibles. En conjunto, 
+estas herramientas permiten que un proceso de participación ciudadana sea más 
+transparente, organizado y sostenible en el tiempo, fortaleciendo la confianza 
+entre la comunidad y quienes gestionan las peticiones.

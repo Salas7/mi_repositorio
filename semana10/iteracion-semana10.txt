@@ -1,0 +1,13 @@
+Las 2 tareas que haría primero:
+1. Registrar una incidencia (ciudadano).
+2. Recibir alerta en Telegram (coordinador).
+
+¿Por qué son las más importantes?
+Porque sin el registro de la incidencia no existe información que revisar, 
+y sin la alerta el coordinador no se entera a tiempo de que hay un caso pendiente. 
+Son la base para que el resto del flujo funcione.
+
+Definición simple de "terminado":
+- Funciona sin errores.
+- Fue probada por al menos una persona distinta al desarrollador.
+- Quedó registrada en Git (commit y push realizados).
