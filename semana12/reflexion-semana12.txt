@@ -1,0 +1,12 @@
+Durante este curso aprendí que la tecnología puede ser una herramienta poderosa 
+para fortalecer la participación ciudadana cuando se diseña pensando en las 
+necesidades reales de la comunidad. Con "Petición en 3 Clics" comprendí cómo 
+conectar un backend, una base de datos y la generación automática de documentos 
+para que cualquier persona, sin conocimientos técnicos, pueda impulsar una causa. 
+También entendí la importancia de proteger los datos personales, aplicando 
+principios como la minimización de datos y las notificaciones responsables. 
+Las automatizaciones, como las que se pueden hacer con n8n o Telegram, permiten 
+mantener informada a la comunidad sin exponer información sensible. En general, 
+este curso me mostró que la organización comunitaria y la veeduría ciudadana 
+pueden fortalecerse mucho más cuando cuentan con herramientas tecnológicas 
+simples, seguras y accesibles para todos.
